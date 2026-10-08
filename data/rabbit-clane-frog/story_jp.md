@@ -6,17 +6,17 @@ rabbit-clane-frog
 
 お月さまのすず
 
-### ipa
+### speech
 
-ot͡sɯkisama no sɯzɯ
+お月さまの鈴
 
 ## description
 
 ゆうべ、お月さまがすずを落としてしまいました。うさぎ、つる、かえるの三びきが、それぞれの力を合わせて、すずをお月さまに返しにいくお話です。
 
-### ipa
+### speech
 
-jɯːbe ot͡sɯkisama ga sɯzɯ o otoɕite ɕimaimaɕita ɯsagi t͡sɯɾɯ kaeɾɯ no sambiki ga soɾezoɾe no t͡ɕikaɾa o awasete sɯzɯ o ot͡sɯkisama ni kaeɕi ni ikɯ ohanaɕi desɯ
+ゆうべ、お月さまが鈴を落としてしまいました。うさぎ、鶴、蛙の三匹が、それぞれの力を合わせて、鈴をお月さまに返しにいくお話です。
 
 ## page_1
 
@@ -26,11 +26,11 @@ image: 1-first.png
 白いうさぎと、たんちょうづると、小さなかえるが、木の下で立ち止まりました。
 ゆうべ、お月さまがすずを落としてしまったのです。今日は三びきで、すずをさがしにいきます。
 
-### ipa
+### speech
 
-asa no moɾi oːkina kaɕi no ki no mawaɾi de mit͡ɕi ga ikɯt͡sɯ ni mo wakaɾete imasɯ
-ɕiɾoi ɯsagi to tant͡ɕoːzɯɾɯ to t͡ɕiːsana kaeɾɯ ga ki no ɕita de tat͡ɕidomaɾimaɕita
-jɯːbe ot͡sɯkisama ga sɯzɯ o otoɕite ɕimatta no desɯ kjoː wa sambiki de sɯzɯ o sagaɕi ni ikimasɯ
+朝の森。大きな樫の木のまわりで、道がいくつにも分かれています。
+白いうさぎと、丹頂鶴と、小さな蛙が、木の下で立ち止まりました。
+ゆうべ、お月さまが鈴を落としてしまったのです。きょうは三匹で、鈴をさがしにいきます。
 
 ## page_2
 
@@ -40,11 +40,11 @@ image: 2-rabbit.png
 あしの向こうから、かすかに、りん、とすずの音が聞こえます。
 うさぎは、音のするほうを、じっと見つめました。
 
-### ipa
+### speech
 
-mizɯːmi no hotoɾi no ɕigemi de ɯsagi ga nagai mimi o sɯmasemaɕita
-aɕi no mɯkoː kaɾa kasɯkani ɾiɴ to sɯzɯ no oto ga kikoemasɯ
-ɯsagi wa oto no sɯɾɯ hoː o d͡ʑitto mit͡sɯmemaɕita
+湖のほとりの茂みで、うさぎが長い耳をすませました。
+アシの向こうから、かすかに、りん、と鈴のおとが聞こえます。
+うさぎは、おとのするほうを、じっと見つめました。
 
 ## page_3
 
@@ -53,10 +53,10 @@ image: 3-clane.png
 つるは大きなつばさを広げて、湖の上へまい上がりました。
 上から見下ろすと、小さな島の灰色の石の上に、金色のすずが光っています。
 
-### ipa
+### speech
 
-t͡sɯɾɯ wa oːkina t͡sɯbasa o çiɾogete mizɯːmi no ɯe e maiagaɾimaɕita
-ɯe kaɾa mioɾosɯ to t͡ɕiːsana ɕima no haiiɾo no iɕi no ɯe ni kiɴiɾo no sɯzɯ ga çikatte imasɯ
+鶴は大きな翼を広げて、湖のうえへ舞い上がりました。
+うえから見下ろすと、小さな島の灰色の石のうえに、きんいろの鈴が光っています。
 
 ## page_4
 
@@ -65,10 +65,10 @@ image: 4-frog.png
 かえるは湖に飛びこみ、島まで泳いでいきました。
 すずをしっかりかかえてもどってくると、水のしずくをまとったまま、岸のこけむした石にのぼりました。
 
-### ipa
+### speech
 
-kaeɾɯ wa mizɯːmi ni tobikomi ɕima made ojoide ikimaɕita
-sɯzɯ o ɕikkaɾi kakaete modotte kɯɾɯ to mizɯ no ɕizɯkɯ o matotta mama kiɕi no kokemɯɕita iɕi ni noboɾimaɕita
+蛙は湖に飛びこみ、島まで泳いでいきました。
+鈴をしっかりかかえて戻ってくると、水のしずくをまとったまま、岸の、苔むした石にのぼりました。
 
 ## page_5
 
@@ -78,8 +78,8 @@ image: 5-last.png
 すずはもとどおり、三日月の先にさがっています。
 風がふくと、すずは小さく、りん、と鳴りました。
 
-### ipa
+### speech
 
-joɾɯ ni naɾimaɕita sambiki wa oka no kɯsat͡ɕi kaɾa mikazɯki o miagemasɯ
-sɯzɯ wa motodoːɾi mikazɯki no saki ni sagatte imasɯ
-kaze ga ɸɯkɯ to sɯzɯ wa t͡ɕiːsakɯ ɾiɴ to naɾimaɕita
+夜になりました。三匹は、丘のくさちから、三日月を見上げます。
+鈴はもとどおり、三日月のさきに、さがっています。
+風が吹くと、鈴は小さく、りん、と鳴りました。

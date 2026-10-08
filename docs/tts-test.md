@@ -1,5 +1,7 @@
 # 読み上げのテスト手順（Amazon Polly）
 
+> **結論**：IPAで発音を指定する方式はやめた。代わりに、音声合成にそのまま渡せる文を `### speech` に書く（`docs/story-format.md`）。この文書はテストの記録として残す。
+
 タイトルのIPA `ot͡sɯkisama no sɯzɯ` をPollyで読み上げたところ、「お月さまのすず」に聞こえなかった（`data/rabbit-clane-frog/sample-title.mp3`）。原因を切り分けるため、同じ声で4通りの渡し方を聞き比べる。
 
 ## 最初の結果（sample-title.mp3）

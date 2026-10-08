@@ -11,8 +11,8 @@ data/origami/<おりがみ名>/
   card-front.png    象徴するカードの表（ボタニカルアート）
   card-back.png     象徴するカードの裏（折り上がったおりがみ）
   card-prompts.md   カードの画像を作るプロンプト
-  thumb-front.svg   カードの表のサムネイル（構図と色の目安）
-  thumb-back.svg    カードの裏のサムネイル（構図と色の目安）
+  card-front-thumb.png  カードの表のサムネイル
+  card-back-thumb.png   カードの裏のサムネイル
   steps/            折り方のデータと手順図
 ```
 
@@ -64,13 +64,12 @@ back: card-back.png
 - 画像生成で 5:7 が指定できない場合は、縦長（例：1024×1536）で作り、上下を切って 5:7（例：1024×1434）にする。切っても動物が欠けないよう、上下に余白をとった構図にする。
 - 表のプロンプトは `card-prompts.md` の `## front` に、ストーリーの `prompts.md` と同じ分け方（style・character・scene・composition・constraints）で書く。
 
-### サムネイル（thumb-front.svg・thumb-back.svg）
+### サムネイル（card-front-thumb.png・card-back-thumb.png）
 
-カードの構図と色を検討するための、簡単な図。完成画像ではない。`card-prompts.md` の `## front`・`## back` の先頭に表示する。
+表と裏の画像ができたら、それぞれのサムネイルも作る。
 
-- 色はSVGの先頭の `<style>` にまとめてあり、そこを書き換えると変えられる。
-- 裏の `.paper-front` は紙の表の色、`.paper-back` は紙の裏の色。
-- 色が決まったら、`card-prompts.md` のプロンプトの色もそろえる。
+- 元の画像を縮小して作る（比率 5:7、幅 250px × 高さ 350px）。
+- 作る指示は `card-prompts.md` の `## thumbnail` に書く。
 
 ### 作る順番
 

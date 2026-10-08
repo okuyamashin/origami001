@@ -2,10 +2,6 @@
 
 ## front
 
-![表のサムネイル](thumb-front.svg)
-
-サムネイルは構図と色の目安（完成画像ではない）。色はSVG先頭の `<style>` で変えられる。
-
 カードの表。ストーリーと同じボタニカルアートの画風で、そのおりがみの動物を描く。
 
 ### style
@@ -30,10 +26,6 @@ No watercolor bleeding or blur, no impasto, no glossy digital painting, no 3D re
 
 ## back
 
-![裏のサムネイル](thumb-back.svg)
-
-サムネイルは構図と色の目安（完成画像ではない）。色はSVG先頭の `<style>` で変えられる。
-
 カードの裏。折り上がったおりがみの画像。完成形がほぼ決まっているので先に作る。`steps/` の折り方のデータができた後、形が違っていたら作り直す。
 
 ### style
@@ -55,3 +47,10 @@ The single finished model centered on the card, filling about two-thirds of its 
 ### constraints
 
 The model must look like a real origami model folded from a single square sheet of paper, with no cuts and no glue. Paper is thin and flat, with sharp creases. No eyes, faces, or other drawn-on details on the paper. No hands, no other objects, no background scenery. No watercolor bleeding or blur, no glossy digital painting, no 3D rendering. No text, labels, numbers, card corner symbols, frames, borders, watermarks, or signatures.
+
+## thumbnail
+
+表と裏の画像ができたら、それぞれのサムネイルも作る。
+
+- `card-front.png` から `card-front-thumb.png`、`card-back.png` から `card-back-thumb.png` を作る。
+- 元の画像を縮小して作る（比率 5:7、幅 250px × 高さ 350px）。

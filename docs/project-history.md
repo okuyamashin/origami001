@@ -120,8 +120,6 @@
 | ディレクトリ | 会話上の用途 |
 | --- | --- |
 | [data/rabbit-clane-frog](../data/rabbit-clane-frog/) | ChatGPTで制作した紙芝居5枚（採用版。旧 `rabbit-clane-frog_chatgpt`） |
-| [rabbit-clane-frog-gemini](../rabbit-clane-frog-gemini/) | Gemini版の紙芝居5枚 |
-| [refer](../refer/) | 参考画像2枚 |
 | docs | 構想や制作経緯などのドキュメント |
 
 ディレクトリ名の「clane」は、リポジトリにある実際の綴りに合わせて記載している。

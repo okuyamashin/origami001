@@ -36,4 +36,4 @@
 | ディレクトリ | ジャンル | お話 |
 | --- | --- | --- |
 | `rabbit-clane-frog` | `search` | お月さまのすず |
-| `clane-frog-rabbit` | （未定） | （未定） |
+| `clane-frog-rabbit` | `rescue` | きりの朝の子鹿 |

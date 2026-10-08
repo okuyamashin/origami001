@@ -10,6 +10,7 @@ frog
 
 蛙
 
-## symbol
+## card
 
-image: symbol.png
+front: card-front.png
+back: card-back.png

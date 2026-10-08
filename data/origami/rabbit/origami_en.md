@@ -10,6 +10,7 @@ Rabbit
 
 Rabbit
 
-## symbol
+## card
 
-image: symbol.png
+front: card-front.png
+back: card-back.png

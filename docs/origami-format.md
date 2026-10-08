@@ -8,7 +8,9 @@
 data/origami/<おりがみ名>/
   origami_jp.md     名前など（言語別）
   origami_en.md
-  symbol.png        そのおりがみを象徴する画像
+  card-front.png    象徴するカードの表（ボタニカルアート）
+  card-back.png     象徴するカードの裏（折り上がったおりがみ）
+  card-prompts.md   カードの画像を作るプロンプト
   steps/            折り方のデータと手順図
 ```
 
@@ -23,7 +25,7 @@ data/origami/<おりがみ名>/
 | --- | --- |
 | `origami` | おりがみ名。ディレクトリ名と同じ。全言語で同じ。 |
 | `name` | 画面に出す名前。日本語版は小学校で習わない漢字をひらがなにする。`### speech` に読み上げ用の名前を付ける。 |
-| `symbol` | 象徴する画像のファイル名を `image: symbol.png` の形で書く。 |
+| `card` | 象徴するカードの画像のファイル名を、`front: card-front.png` と `back: card-back.png` の2行で書く。 |
 
 例（`data/origami/clane/origami_jp.md`）：
 
@@ -40,14 +42,30 @@ clane
 
 鶴
 
-## symbol
+## card
 
-image: symbol.png
+front: card-front.png
+back: card-back.png
 ```
 
-## symbol.png
+## 象徴するカード（card-front.png・card-back.png）
 
-選択画面などで、そのおりがみを表す画像。画風や大きさは未定。
+選択画面などで、そのおりがみを表すカード。表と裏の2枚の画像で作る。
+
+| 項目 | 内容 |
+| --- | --- |
+| 比率 | トランプと同じ縦長の 5:7（63×88mm）。縦向き。 |
+| 表（`card-front.png`） | ストーリーと同じボタニカルアートの画風で、その動物を1匹描く。外見と小物はストーリーと同じ（例：うさぎは青いスカーフ）。 |
+| 裏（`card-back.png`） | 折り上がったおりがみの画像。 |
+| 文字・枠 | 画像には文字、数字、四隅のマーク、枠を入れない。必要ならアプリ側で付ける。 |
+
+- 画像生成で 5:7 が指定できない場合は、縦長（例：1024×1536）で作り、上下を切って 5:7（例：1024×1434）にする。切っても動物が欠けないよう、上下に余白をとった構図にする。
+- 表のプロンプトは `card-prompts.md` の `## front` に、ストーリーの `prompts.md` と同じ分け方（style・character・scene・composition・constraints）で書く。
+
+### 作る順番
+
+1. 表：ストーリーの画像と同じように、いつでも作れる。
+2. 裏：折り図が正確になるよう、`steps/` の折り方のデータを作った後で、それに合わせて作る。
 
 ## steps/
 

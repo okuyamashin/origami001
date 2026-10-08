@@ -37,3 +37,7 @@
 | --- | --- | --- |
 | `rabbit-clane-frog` | `search` | お月さまのすず |
 | `clane-frog-rabbit` | `rescue` | きりの朝の子鹿 |
+| `rabbit-frog-clane` | （未定） | （未定） |
+| `clane-rabbit-frog` | （未定） | （未定） |
+| `frog-rabbit-clane` | （未定） | （未定） |
+| `frog-clane-rabbit` | （未定） | （未定） |

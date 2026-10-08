@@ -53,4 +53,4 @@ The model must look like a real origami model folded from a single square sheet 
 表と裏の画像ができたら、それぞれのサムネイルも作る。
 
 - `card-front.png` から `card-front-thumb.png`、`card-back.png` から `card-back-thumb.png` を作る。
-- 元の画像を縮小して作る（比率 5:7、幅 250px × 高さ 350px）。
+- 元の画像全体を縦横比を保って縮小し、背景色の余白を加えて正方形にする（幅 250px × 高さ 250px）。動物や折り紙を切り取らない。

@@ -53,7 +53,7 @@ A low, side-on close view. The rabbit's body takes up about two-thirds of the he
 
 ### scene
 
-High sand dunes covered here and there with beach grass. The crane rises above the top of a dune with its wings fully spread. Beyond the dunes, for the first time, the wide sea is visible, the same pale blue as the sky.
+High sand dunes covered here and there with beach grass. The crane rises above the top of a dune with its wings fully spread. It is clearly airborne, with both legs extended backward in a natural flight posture and both feet clear of the ground; it is not standing on the dune. Beyond the dunes, for the first time, the wide sea is visible, the same pale blue as the sky.
 
 ### composition
 

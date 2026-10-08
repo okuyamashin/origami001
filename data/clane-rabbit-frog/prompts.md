@@ -34,7 +34,7 @@ A wide night landscape in deep blue-grey and green tones. The three companions a
 
 ### scene
 
-The crane flies slowly in a circle high above a dark forest at night, its wings fully spread. Far below, at the bottom of a valley, a winding stream is marked by a line of tiny yellow-green lights.
+The crane flies slowly in a circle high above a dark forest at night, its wings fully spread. Far below, at the bottom of a valley, a winding stream is marked by a line of tiny yellow-green lights. If the moon is visible, it is a thin waxing crescent with its right edge illuminated, matching page_1.
 
 ### composition
 
@@ -64,7 +64,7 @@ A close view at the level of the stream bed. The frog's whole body takes up abou
 
 ### scene
 
-The mossy bank of the stream at night. A few firefly larvae crawl slowly up the bank, each glowing softly yellow-green, leaving the water. The rabbit, the crane, and the frog sit quietly side by side nearby, watching the little lights. Young ferns and spring flowers in the darkness.
+The mossy bank of the stream at night. A few firefly larvae crawl slowly up the bank, each glowing softly yellow-green, leaving the water. The rabbit, the crane, and the frog sit quietly side by side nearby, watching the little lights. Young ferns and spring flowers in the darkness. If the moon is visible, it is a thin waxing crescent with its right edge illuminated, matching page_1.
 
 ### composition
 

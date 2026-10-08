@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="250" height="350">
+<style>
+  .card { fill: #f6f1e4; stroke: #c9bfa6; stroke-width: 2; }
+  .ink { fill: none; stroke: #4a4538; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .paper-front { fill: #7d8a3e; stroke: #4a4538; stroke-width: 2; stroke-linejoin: round; }
+  .paper-back  { fill: #efe6c8; stroke: #4a4538; stroke-width: 2; stroke-linejoin: round; }
+</style>
+<rect class="card" x="1" y="1" width="498" height="698" rx="24"/>
+
+<!-- ぴょんぴょんがえる（上から） -->
+<polygon class="paper-front" points="178,332 112,240 218,300"/>
+<polygon class="paper-front" points="322,332 388,240 282,300"/>
+<polygon class="paper-back"  points="190,470 140,520 250,500"/>
+<polygon class="paper-back"  points="310,470 360,520 250,500"/>
+<polygon class="paper-front" points="250,250 175,330 190,470 250,500 310,470 325,330"/>
+<line class="ink" x1="250" y1="250" x2="250" y2="500"/>
+<line class="ink" x1="175" y1="330" x2="325" y2="330"/>
+</svg>

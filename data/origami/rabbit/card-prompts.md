@@ -2,6 +2,10 @@
 
 ## front
 
+![表のサムネイル](thumb-front.svg)
+
+サムネイルは構図と色の目安（完成画像ではない）。色はSVG先頭の `<style>` で変えられる。
+
 カードの表。ストーリーと同じボタニカルアートの画風で、そのおりがみの動物を描く。
 
 ### style
@@ -25,6 +29,10 @@ A single animal portrait centered on the card, filling most of its height, with 
 No watercolor bleeding or blur, no impasto, no glossy digital painting, no 3D rendering. No large eyes, no cartoon faces, no baby-like proportions, no exaggerated gestures. Only the one animal described appears. No text, labels, numbers, card corner symbols, frames, borders, watermarks, or signatures.
 
 ## back
+
+![裏のサムネイル](thumb-back.svg)
+
+サムネイルは構図と色の目安（完成画像ではない）。色はSVG先頭の `<style>` で変えられる。
 
 カードの裏。折り上がったおりがみの画像。完成形がほぼ決まっているので先に作る。`steps/` の折り方のデータができた後、形が違っていたら作り直す。
 

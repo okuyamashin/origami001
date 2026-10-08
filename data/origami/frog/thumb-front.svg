@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="250" height="350">
+<style>
+  .card { fill: #f6f1e4; stroke: #c9bfa6; stroke-width: 2; }
+  .ink { fill: none; stroke: #4a4538; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .animal { fill: #7d8a3e; stroke: #4a4538; stroke-width: 2; }
+  .scarf  { fill: #b9443a; stroke: #4a4538; stroke-width: 2; }
+  .leaf   { fill: #8aa06a; stroke: #4a4538; stroke-width: 2; }
+  .flower { fill: #e2a4ae; stroke: #4a4538; stroke-width: 1.5; }
+  .iris   { fill: #5b6fa8; stroke: #4a4538; stroke-width: 1.5; }
+</style>
+<rect class="card" x="1" y="1" width="498" height="698" rx="24"/>
+
+<!-- 蛙：蓮の葉に座る。蓮のつぼみ、アヤメ -->
+<ellipse class="leaf" cx="250" cy="520" rx="190" ry="70"/>
+<ellipse class="animal" cx="250" cy="440" rx="85" ry="70"/>
+<ellipse class="animal" cx="250" cy="370" rx="60" ry="40"/>
+<circle class="animal" cx="220" cy="345" r="13"/><circle class="animal" cx="280" cy="345" r="13"/>
+<path class="scarf" d="M195 390 Q250 420 305 390 L308 408 Q250 440 192 408 Z"/>
+<path class="ink" d="M120 470 L110 200" style="stroke:#6f8550;stroke-width:5"/>
+<ellipse class="flower" cx="110" cy="180" rx="22" ry="38"/>
+<path class="ink" d="M400 480 L405 230" style="stroke:#6f8550;stroke-width:5"/>
+<ellipse class="iris" cx="392" cy="210" rx="14" ry="30" transform="rotate(-20 392 210)"/>
+<ellipse class="iris" cx="418" cy="210" rx="14" ry="30" transform="rotate(20 418 210)"/>
+<path class="ink" d="M70 620 Q250 600 430 620" style="stroke:#7d95a6"/>
+</svg>

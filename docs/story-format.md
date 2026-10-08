@@ -25,6 +25,7 @@ data/<origami>/story_<言語>.md
 | セクション | 内容 |
 | --- | --- |
 | `origami` | 選んだおりがみ。ディレクトリ名と同じ値を1行で書く。全言語で同じ。 |
+| `genre` | お話のジャンル名を1行で書く。値は [genres.md](genres.md) の一覧から選ぶ。全言語で同じ。 |
 | `title` | お話のタイトル。 |
 | `description` | お話の説明。 |
 | `page_1` 〜 `page_5` | 紙芝居の各ページ。 |
@@ -66,6 +67,10 @@ data/<origami>/story_<言語>.md
 ## origami
 
 rabbit-clane-frog
+
+## genre
+
+search
 
 ## title
 

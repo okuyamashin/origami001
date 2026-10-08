@@ -2,6 +2,10 @@
 
 clane-frog-rabbit
 
+## genre
+
+（未定）
+
 ## title
 
 （未定）
